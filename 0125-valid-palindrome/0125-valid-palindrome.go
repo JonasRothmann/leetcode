@@ -7,14 +7,11 @@ func isPalindrome(s string) bool {
     str := []rune(s)
 
     for x < y {
-        xChar := str[x]
-        yChar := str[y]
-
-        if !isAlphaNumeric(xChar) {
+        if !isAlphaNumeric(str[x]) {
             x++
-        } else if !isAlphaNumeric(yChar) {
+        } else if !isAlphaNumeric(str[y]) {
             y--
-        } else if toLowerCase(xChar) != toLowerCase(yChar) {
+        } else if toLowerCase(str[x]) != toLowerCase(str[y]) {
             return false
         } else {
             x++
