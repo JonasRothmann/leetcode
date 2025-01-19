@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JonasRothmann/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JonasRothmann/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/JonasRothmann/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/JonasRothmann/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/JonasRothmann/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JonasRothmann/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/JonasRothmann/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
